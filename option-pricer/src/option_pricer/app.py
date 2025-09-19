@@ -77,7 +77,7 @@ class OptionPricer:
 def main():
     """Example usage"""
     pricer = OptionPricer(
-        spot_price=127.62,
+        spot_price=127.64,
         strike_price=130.0,
         risk_free_rate=0.001,
         volatility=0.20,
